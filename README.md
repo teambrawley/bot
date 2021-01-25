@@ -47,7 +47,6 @@
 - <a href="https://top.gg/bot/792311725181239307/vote">Vote Us</a>
 
 
-<iframe width="100%" height="1000px" frame-border="0" style="border-radius:25px" src="https://brawley.is-a.dev/commands"></iframe>
  <style>
   body {
   background-color:black
