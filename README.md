@@ -47,14 +47,5 @@
 - <a href="https://top.gg/bot/792311725181239307/vote">Vote Us</a>
 
 
- <style>
-  body {
-  background-color:black
-  }
-  .wn {
-   font-size: 20px;
-   color: purple;
-  }
- </style> 
-    
+
     
