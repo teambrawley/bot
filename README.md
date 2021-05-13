@@ -4,9 +4,10 @@
 
 <h2 style="color: #8080ff">What Can Brawley Do ?</h2>
  <h3 style=" font-size: 20px;color:  #8080ff;">What's New ?</h3>
- 
-  - New Command For Brawl Stars
-  - New Command For Mee6 Leaderboard
+    
+   - Tracker ( Server Vote Tracker )
+   - `-bug` Command, To Report Bugs
+   - `-calc` Coomand, To Calculate Something
   
 ------------------------------------------------  
 - <h3 style="color: #8080ff">Main Feature</h3>
@@ -16,6 +17,10 @@
    - Get Stock Quotes, Financial Datas And More.
    
    - Play Musics From YouTube
+
+   - Tracker ( Server Vote Tracker )
+
+   - Moderation Tools
    
  ---------------------  
 - <h4 style="color: #8080ff">Moderation </h4>
