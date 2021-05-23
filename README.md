@@ -6,15 +6,15 @@
  <h3 style=" font-size: 20px;color:  #8080ff;">What's New ?</h3>
     
    - Tracker ( Server Vote Tracker )
-   - `-bug` Command, To Report Bugs
    - `-calc` Coomand, To Calculate Something
+   - `-events` Command, Live Events Rotation
   
 ------------------------------------------------  
 - <h3 style="color: #8080ff">Main Feature</h3>
  
-   - Get Your Braw Stars, Clash Of Clans And Clash Royal Stats.     Battle Logs, Profile And More
+   - Get Your Braw Stars, Clash Of Clans And Clash Royal Stats.  ( Battle Logs, Profile And More )
    
-   - Get Stock Quotes, Financial Datas And More.
+   - Powerful Utility Tools.
    
    - Play Musics From YouTube
 
@@ -28,6 +28,8 @@
     - Kick Members 
     - Ban Members 
     - Create Invite Links
+    - Clear Messages
+    - Lock/Unlock Text Channels
     
     
 <h3 style="color: #8080ff">Simple Commands</h3>
